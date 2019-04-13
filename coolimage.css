@@ -119,7 +119,7 @@ body {
   filter: saturate(2) contrast(120%);
 }
 .wrap-effect-4 .item:first-of-type {
-  background-image: "swim.jpg";
+  background-image: url("swim.jpg");
 }
 .wrap-effect-4 .item:nth-of-type(2) {
   background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4475663/galshir-musical-instruments.gif");
